@@ -51,6 +51,7 @@ https://mcmurtrs.github.io/lrr.fastqc.github.io/Japan1230_1P_trim_fastqc.html
 https://mcmurtrs.github.io/lrr.fastqc.github.io/Japan1230_2P_trim_fastqc.html
 https://mcmurtrs.github.io/lrr.fastqc.github.io/Japan1241_1P_trim_fastqc.html
 https://mcmurtrs.github.io/lrr.fastqc.github.io/Japan1241_2P_trim_fastqc.html
+
 https://mcmurtrs.github.io/lrr.fastqc.github.io/Japan1247-rd_1P_trim_fastqc.html
 https://mcmurtrs.github.io/lrr.fastqc.github.io/Japan1247-rd_2P_trim_fastqc.html
 https://mcmurtrs.github.io/lrr.fastqc.github.io/Mat20-4_1P_trim_fastqc.html
