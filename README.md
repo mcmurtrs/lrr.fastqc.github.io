@@ -1,5 +1,3 @@
-# lrr.fastqc.github.io
-
 # LRR Illumina 3000 Trimmed & Filtered Reads
 https://mcmurtrs.github.io/lrr.fastqc.github.io/135763SS19_1P_trim_fastqc.html
 
