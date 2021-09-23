@@ -2,4 +2,4 @@
 
 # LRR Illumina 3000 Trimmed & Filtered Reads
 
-[I'm an inline-style link](https://www.google.com)
+[135663SS19_1P](https://mcmurtrs.github.io/lrr.fastqc.github.io/135763SS19_1P_trim_fastqc.html)
