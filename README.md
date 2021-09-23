@@ -2,14 +2,23 @@
 
 # LRR Illumina 3000 Trimmed & Filtered Reads
 https://mcmurtrs.github.io/lrr.fastqc.github.io/135763SS19_1P_trim_fastqc.html
+
 https://mcmurtrs.github.io/lrr.fastqc.github.io/135791SS13_1P_trim_fastqc.html
+
 https://mcmurtrs.github.io/lrr.fastqc.github.io/135791SS13_2P_trim_fastqc.html
+
 https://mcmurtrs.github.io/lrr.fastqc.github.io/A-2_1P_trim_fastqc.html
+
 https://mcmurtrs.github.io/lrr.fastqc.github.io/A-2_2P_trim_fastqc.html
+
 https://mcmurtrs.github.io/lrr.fastqc.github.io/A-3_1P_trim_fastqc.html
+
 https://mcmurtrs.github.io/lrr.fastqc.github.io/A-3_2P_trim_fastqc.html
+
 https://mcmurtrs.github.io/lrr.fastqc.github.io/AP1_1P_trim_fastqc.html
+
 https://mcmurtrs.github.io/lrr.fastqc.github.io/AP12_1P_trim_fastqc.html
+
 https://mcmurtrs.github.io/lrr.fastqc.github.io/AP12_2P_trim_fastqc.html
 https://mcmurtrs.github.io/lrr.fastqc.github.io/AP1_2P_trim_fastqc.html
 https://mcmurtrs.github.io/lrr.fastqc.github.io/AP13_1P_trim_fastqc.html
